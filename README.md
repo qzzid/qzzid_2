@@ -87,3 +87,4 @@ commit;
 select * from stock;
 
 
+ip 10.100.102.30
